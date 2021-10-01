@@ -2,9 +2,11 @@
 
 ## Unidade Curricular: GESTÃO E QUALIDADE DE SOFTWARE
 
-### Integrantes do grupo
+## Organização StarJobs
 
-- Matheus Henrique (Scrum master)
+### Integrantes da organização
+
+- Matheus Henrique (Scrum Master)
 - David Jacobis (Product Owner)
 - Rafael Martins 
 - Natan Gonçalves 
