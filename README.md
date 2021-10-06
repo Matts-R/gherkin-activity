@@ -12,3 +12,7 @@
 - Natan Gonçalves 
 - Leonardo Henrique
 - Amanda Batista
+
+
+### Link para o repositorio da organização 
+https://github.com/Star-Jobs
