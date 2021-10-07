@@ -16,3 +16,6 @@
 
 ### Link para o repositorio da organização 
 https://github.com/Star-Jobs
+- Link direto para o projeto
+
+https://github.com/Star-Jobs/gherkin-project
